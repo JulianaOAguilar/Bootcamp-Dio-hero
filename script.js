@@ -1,6 +1,6 @@
 const readline = require('readline');
 
-// Cria uma interface para ler dados do terminal (input/output)
+
 const rl = readline.createInterface({
   input: process.stdin,   // Entrada do terminal
   output: process.stdout  // Saída no terminal
